@@ -24,7 +24,7 @@ To analyze global health indicators and demographic patterns in order to identif
 - Chart Type: Bar Chart  
 - Metric: Contribution to population growth by country  
 - View: Top 10 contributing African countries  
-<img src="https://github.com/user-attachments/assets/25e2190b-acb3-4454-af1e-0b4e41714b6c" alt="Visualization 1" width="600"/>
+<img src="https://github.com/user-attachments/assets/ffbdb34a-a005-4965-8289-d733d3f34b90" alt="Visualization 5" width="600"/>
 
 ---
 
@@ -59,7 +59,7 @@ To analyze global health indicators and demographic patterns in order to identif
 - Metric: Life Expectancy by Year  
 - Filter: Top 5 countries by average life expectancy  
 - Color: Country lines for easy comparison  
-<img src="https://github.com/user-attachments/assets/ffbdb34a-a005-4965-8289-d733d3f34b90" alt="Visualization 5" width="600"/>
+<img src="https://github.com/user-attachments/assets/65dc63f0-da23-4aed-85df-4489f9839417" alt="Visualization 2" width="600"/>
 
 ---
 
