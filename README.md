@@ -26,12 +26,16 @@ To analyze global health indicators and demographic patterns in order to identif
 - View: Top 10 contributing African countries  
 <img src="https://github.com/user-attachments/assets/25e2190b-acb3-4454-af1e-0b4e41714b6c" alt="Visualization 1" width="600"/>
 
+---
+
 **2. Population Distribution by Gender**  
 - Chart Type: Pie Chart  
 - Metric: Gender-based population share  
 - Filter: Selected country, most recent year  
 - Labels: Percentage of total population
 <img src="https://github.com/user-attachments/assets/65dc63f0-da23-4aed-85df-4489f9839417" alt="Visualization 2" width="600"/>
+
+---
   
 **3. Life Expectancy by Continent**  
 - Chart Type: Bar Chart  
@@ -39,12 +43,16 @@ To analyze global health indicators and demographic patterns in order to identif
 - View: Comparison across continents
 <img src="https://github.com/user-attachments/assets/002f1110-b3da-4fc2-8ed2-efa78be6d6fb" alt="Visualization 3" width="600"/>
 
+---
+
 **4. Life Expectancy vs BMI**  
 - Chart Type: Scatter Plot  
 - Axes: Life Expectancy (Y) vs BMI (X)  
 - Detail: Country, colored by continent  
 - Purpose: To explore health correlations and regional differences
 <img src="https://github.com/user-attachments/assets/7f48e2ce-0cae-45b0-8d86-6d9a69e90336" alt="Visualization 4" width="600"/>
+
+---
 
 **5. Life Expectancy Trends Over Time**  
 - Chart Type: Line Chart  
